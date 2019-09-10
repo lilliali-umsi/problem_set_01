@@ -108,7 +108,7 @@ print(''.join(['avg_num_chunks_per_line=', str(avg_num_chunks_per_line), '\n']))
 # Zen of Python string to a new variable named "zen_of_python_uniqname".
 
 # BEGIN 01F SOLUTION
-zen_of_python_uniqname = zen_of_python.replace("Dutch" , "lilliali")
+zen_of_python_uniqname = zen_of_python.replace("Dutch" , "lilliali@umich.edu")
 
 print(''.join(['zen_of_python_uniqname=', zen_of_python_uniqname, '\n']))
 # END 01F SOLUTION
